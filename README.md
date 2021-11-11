@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasFidele
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently Computer Science
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on programming languages (java, python, php)
 - 📫 http://www.mydummy.hstn.me/
 
